@@ -26,7 +26,7 @@
 
 Projeto com o objetivo de gerar um podcast com as facilidades das ferramentas de IA. todos os prompts seguem abaixo.
 
-<a href="https://github.com/ClaudiaPocone/prompts-for-podcast-generate-by-ia/blob/main/output/file-LaGsvwH3PNqB8xWgMesbtR.jpg" title="Ouça Podcast now"> 📕Clique aqui para ouvir</a>
+<a href="https://github.com/ClaudiaPocone/prompts-for-podcast-generate-by-ia/blob/main/output/2024_12_25_20_13_59.mp3" title="Ouça Podcast now"> 📕Clique aqui para ouvir</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
