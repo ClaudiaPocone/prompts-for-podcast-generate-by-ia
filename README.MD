@@ -52,8 +52,8 @@ O nome deve conter alguma palavra forte que remeta a equilíbrio emocional
 {REGRAS NEGATIVAS}
 
 Não quero que o título contenha palavras em inglês
-Não quero que utilize nenhuma das palavras nessa lista: Psicologia, Controle, Equilíbrio Emocional
-                                          |
+Não quero que utilize nenhuma das palavras nessa lista: Psicologia, Controle, Equilíbrio Emocional |
+
 | conteúdo | Agora, Você é um roteirista de podcast, e vamos criar um roteiro de um podcast de psicologia, focado em equilíbrio emocional cujo o nome é "Buda em Movimento - Diálogos sobre a arte de manter a calma em tempos instáveis" e tem foco em equilíbrio emocional, com o público alvo de pessoas leigas interessadas em aplicabilidade de dicas e teorias de psicologia como subsídio para viverem melhor suas próprias vidas cotidianas e seus relacionamentos 
 
 o formato do roteiro deve ser [INTRODUÇÃO] [CURIOSIDADE 1] [CURIOSIDADE 2] [FINALIZAÇÃO]
@@ -70,9 +70,9 @@ O podcast deve ser curto
 {REGRAS NEGATIVAS}
 
 Não use muitos termos técnicos
-Não ultrapasse 5 minutos de duração
-                                          |
-| capa | Com base no conteúdo gerado, crie uma imagem para capa do Podcast. A capa deve ter escrito o nome do Podcast Buda em Movimento.
+Não ultrapasse 5 minutos de duração |
+
+| capa | Com base no conteúdo gerado, crie uma imagem para capa do Podcast. A capa deve ter escrito o nome do Podcast Buda em Movimento |
 
 
 
