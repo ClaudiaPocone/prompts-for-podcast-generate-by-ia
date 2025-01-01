@@ -38,8 +38,8 @@ Projeto com o objetivo de gerar um podcast com as facilidades das ferramentas de
 
 ChatGPT：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|   Ação   | prompt |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Você é um roteirista de podcast, e vamos criar um podcast de psicologia, focado em equilíbrio emocional e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast de equilíbrio emocional feito por psicólogos, e que tenha algum trocadilho cult no nome
 
 O podcast vai falar sobre dicas e teorias sobre a literatura acadêmica sobre equilíbrio emocional e o que está acontecendo no mundo acadêmico 
